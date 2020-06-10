@@ -1,6 +1,9 @@
 # AutomationTraining
 
-IMPORTANT NOTE: This project is in progress for MAC OSX. It is ready for Windows and Linux
+IMPORTANT NOTES: 
+1. This project is in progress for MAC OSX. It is ready for Windows and Linux
+2. If you run this project in Linux, ensure to do a chmod 755 to <system-path>/AutomationTraining/drivers to make that all binaries executable
+3. When project is downloaded, look for sample properties to set the browser desired to execute this project. 
 
 I assume that Eclipse is installed with TestNG plugin
 
